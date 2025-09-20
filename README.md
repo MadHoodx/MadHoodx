@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">A computer engineering student who loves creating **web apps**.  <br>My focus is on building full-stack projects with tools like **Next.js, TypeScript, and Supabase**, while exploring how to make apps scalable and user-friendly.</h4>
+<h4 align="left">A computer engineering student who loves creating web apps.  <br>My focus is on building full-stack projects with tools like Next.js, TypeScript, and Supabase, while exploring how to make apps scalable and user-friendly.</h4>
 
 ###
 
